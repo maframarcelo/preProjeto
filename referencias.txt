@@ -1,0 +1,18 @@
+Nome: Marcelo Mafra
+Tema: O impacto da inteligência artificial na otimização de sistemas elétricos de distribuição.
+Professor orientador (possível): Rosana Aurea Tonetti Massahud
+Palavras-chave:
+•	    Inteligência artificial
+•	    Otimização
+•	    Sistemas elétricos de distribuição
+•	    Redes inteligentes
+•	    Aprendizado de máquina
+•	    Algoritmos genéticos
+•	    Redes neurais artificiais
+Referências:
+HARTVIGSEN, Daniel J.; DENHOLM, Peter J.; ALMEIDA, João Paulo S. Redes Elétricas Inteligentes: Fundamentos e Aplicações. Elsevier, 2021.
+FREITAS, Paulo Sérgio Vieira de; ARAÚJO, André de Castro Alves; AZEVEDO, Carlos Alberto Barreto de. Inteligência Artificial e Otimização para Engenharia Elétrica. Blucher, 2020.
+TEIXEIRA, Rubem de Andrade; OLIVEIRA FILHO, Luiz Carlos Gomes de; MELO, Gilberto de Castro. Sistemas de Energia Elétrica: Análise, Operação e Controle. LTC, 2019.
+SILVA, Sidnei Soares de Vasconcelos; AZEVEDO, Carlos Alberto Barreto de. Otimização de Sistemas Elétricos de Distribuição com Metaheurísticas. Blucher, 2018.
+PEÇAS, Fernando Lopes; ALMEIDA, João Paulo S.; SILVA, Vítor Correia da. Redes Elétricas Inteligentes: Tecnologias e Aplicações. FEUP Edições, 2017.
+
